@@ -1,4 +1,8 @@
-## Hi there 👋
+I'm a student at New York University studying Computer Science and Data Science 
+
+
+Currently @ 
+Biokind [https://www.biokind.org/] 
 
 <!--
 **kevit03/kevit03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
