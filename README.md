@@ -11,4 +11,12 @@ Currently @
 _________________________________________________________________________________________________________________________________________________
 
 Formerly @ 
+**Purdue Undergraduate Research Lab**
+
+[**Deelon**] 
+
+
+[![Current Projects](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 
