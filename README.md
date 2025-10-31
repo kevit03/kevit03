@@ -1,6 +1,11 @@
 # Kevin Tang 
 
 
+### Current Projects and Work 
+[Biokind Analytics](https://www.biokind.org/): a nonprofit that serves other nonprofits. I'm involved in data cleaning, caching, and visualizing so that our clients can better understand their data. 
+
+
+
 ---
 
 ### 🧰 Languages and Tools
@@ -19,7 +24,7 @@
 
 ### 📊 Stats
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevit03&show_icons=true&theme=synthwave)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kevit03&theme=synthwave&border_radius=4.5) -->
 
