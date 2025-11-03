@@ -22,9 +22,4 @@
 
 
 
-### 📊 Stats
-
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevit03&show_icons=true&theme=synthwave)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kevit03&theme=synthwave&border_radius=4.5) -->
 
