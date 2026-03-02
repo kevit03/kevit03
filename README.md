@@ -25,6 +25,6 @@
 
 ### Website
 
-<a href="https://kevit03.github.io/" target="_blank">
+<a href="https://kevit03.github.io/" target="here">
   Personal Blog • Projects • Photography
 </a>
