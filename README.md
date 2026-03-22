@@ -32,20 +32,6 @@ Personal Blog • Projects • Photography
 
 ---
 
-### GitHub Statistics
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kevit03&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kevit03&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/><br/><br/><br/><br/><br/>
-
----
-
 ### Most Used Languages
 
 <p>
