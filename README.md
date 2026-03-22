@@ -62,21 +62,10 @@ Personal Blog • Projects • Photography
 
 ---
 
-### GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kevit03&theme=tokyonight&no-frame=true&row=1)
-
----
 
 ### Profile Metrics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kevit03&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/kevit03?style=social)
 
----
 
-### Optional Header
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kevin%20Tang&fontSize=40&fontColor=ffffff"/>
-</p>
