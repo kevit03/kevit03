@@ -30,15 +30,6 @@
 <a href="https://kevit03.github.io" target="_blank">kevit03.github.io/</a>  
 Personal Blog • Projects • Photography
 
----
-
-### Most Used Languages
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevit03&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/><br/><br/><br/>
 
 ---
 
