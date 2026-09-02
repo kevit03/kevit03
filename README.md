@@ -32,14 +32,6 @@
 
 <a href="https://kevit03.github.io" target="_blank">kevit03.github.io/</a>  
 Personal Blog • Projects • Photography
-
-
----
-
-### Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevit03&theme=tokyo-night&hide_border=true)
-
 ---
 
 
