@@ -3,9 +3,8 @@
 ### Current Projects and Work 
 [Biokind Analytics](https://www.biokind.org/): a nonprofit that serves other nonprofits. I'm currently a Tech Lead involved in data cleaning, caching, and visualizing so that our clients can better understand their data. 
 
-**Calendai**: an application that makes updating your calendar easier
-
-
+**tracker**: auto detection of completion for job applications and leetcode / neetcode
+ 
 ---
 
 ### Languages and Tools
