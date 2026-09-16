@@ -1,7 +1,7 @@
 # Kevin Tang 
 
 ### Current Projects and Work 
-[Biokind Analytics](https://www.biokind.org/): a nonprofit that serves other nonprofits. I'm currently a Tech Lead involved in data cleaning, caching, and visualizing so that our clients can better understand their data. 
+[Biokind Analytics](https://www.biokind.org/): a nonprofit that serves other nonprofits. I'm the former Tech Lead and current President involved in data cleaning, caching, and visualizing so that our clients can better understand their data. 
 
 **tracker**: auto detection of completion for job applications and leetcode / neetcode
  
