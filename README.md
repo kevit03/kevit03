@@ -4,7 +4,9 @@
 [Biokind Analytics](https://www.biokind.org/): a nonprofit that serves other nonprofits. I'm the former Tech Lead and current President involved in data cleaning, caching, and visualizing so that our clients can better understand their data. 
 
 [**lit-logger**](https://github.com/kevit03?tab=repositories): auto detection of completion for job applications and leetcode / neetcode
- 
+
+[**Homers**](https://github.com/kevit03/Homers): optimization and modeling tool for NBA simulation and replay, transformer for discrete professional basketball game events 
+
 ---
 
 ### Languages and Tools
