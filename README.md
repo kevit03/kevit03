@@ -33,12 +33,3 @@
 
 <a href="https://kevit03.github.io" target="_blank">kevit03.github.io/</a>  
 Personal Blog • Projects • Photography
----
-
-
-### Profile Metrics
-
-![Profile Views](https://komarev.com/ghpvc/?username=kevit03&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/kevit03?style=social)
-
-
